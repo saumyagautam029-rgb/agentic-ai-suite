@@ -3,3 +3,4 @@ agno
 groq
 python-dotenv
 yt-dlp
+youtube-transcript-api
